@@ -2,7 +2,7 @@
 
 Ce projet implémente un réseau de neurones artificiels (Fully Connected Neural Network) pour classifier des images de vêtements issues du célèbre dataset **Fashion MNIST**. 
 
-Il a été développé dans le cadre d'un projet d'exploration en Deep Learning afin de comprendre les mécanismes fondamentaux de la classification d'images, de la préparation des données à l'évaluation du modèle.
+Il a été développé dans le cadre d'un travaux pratiques en Deep Learning afin de comprendre les mécanismes fondamentaux de la classification d'images, de la préparation des données à l'évaluation du modèle.
 
 ## 🎯 Objectifs du Projet
 * Préparation et normalisation de données de pixels (Images 2D vers Vecteurs 1D).
